@@ -1,5 +1,11 @@
 # 💫 About Me:
-Full-stack developer with experience in building responsive web applications <br>and designing user-friendly interfaces. Skilled in modern front-end and back<br>end technologies, with hands-on experience in UI/UX design and collaborative <br>development environments.
+👋 Hi, I’m a Full-Stack Developer with a strong focus on building clean, responsive, and user-friendly web applications. I mainly work with the MERN stack, creating scalable front-end interfaces and reliable back-end systems that deliver smooth user experiences.
+
+💻 I enjoy turning ideas into real-world products by writing clean, maintainable code and following modern development practices. I have hands-on experience in React, Node.js, MongoDB, and database-driven applications, along with a solid understanding of UI/UX design principles.
+
+🚀 I’ve worked in collaborative and agile environments, where I’ve contributed to full-stack projects, implemented authentication systems, role-based access, and complete CRUD workflows. I’m always eager to learn new technologies, improve my problem-solving skills, and build impactful digital solutions.
+
+🌱 Currently focused on sharpening my full-stack skills, exploring advanced front-end patterns, and building meaningful projects that reflect real-world use cases.
 
 
 ## 🌐 Socials:
